@@ -1,8 +1,12 @@
 <div align="center">
 
-# ⚡ SANDEEP KUSHWAH ⚡
+#  Hy, I'm Sandeep Kushwah 
+<br>
+B.Tech CSE Student || Full Stack Java Developer || ♾️ Future Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Developer;💻+Backend+Engineer;⚡+Spring+Boot+Enthusiast;🔥+Always+Learning+New+Things" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Developer;💻+Backend+Engineer;⚡+Spring+Boot;🔥+Always+Learning+New+Things" />
 
 <img src="https://i.pinimg.com/originals/6d/0c/9c/6d0c9c0f4f5f6c6f5d4d85f84f5e0e8a.gif" width="100%" />
 
@@ -20,6 +24,8 @@ class SandeepKushwah {
     
     String[] skills = {
         "Core Java",
+        "Advance Java",
+        "Spring",
         "Spring Boot",
         "Hibernate",
         "JPA",
@@ -38,7 +44,7 @@ class SandeepKushwah {
 # ⚔️ TECH ARSENAL
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,git,github,vscode,eclipse&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,git,github,vscode,eclipse&theme=dark" />
 </p>
 
 ---
@@ -47,9 +53,9 @@ class SandeepKushwah {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<!--<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>-->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<!--<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>-->
 
 <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117"/>
 
@@ -62,16 +68,6 @@ class SandeepKushwah {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
