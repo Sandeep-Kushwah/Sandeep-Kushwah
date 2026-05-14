@@ -88,7 +88,7 @@ class SandeepKushwah {
 
 # 🌐 CONNECT WITH ME
 
-<p align="center">
+<p align="">
 <a href="https://github.com/Sandeep-Kushwah">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
